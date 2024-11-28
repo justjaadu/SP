@@ -1,0 +1,38 @@
+-------------------------------------
+|   TOKEN TYPE   |   TOKEN VALUE    |
+-------------------------------------
+|   KEYWORD      |   int            |
+|   IDENTIFIER   |   main           |
+|   SYMBOL       |   (              |
+|   SYMBOL       |   )              |
+|   SYMBOL       |   {              |
+|   KEYWORD      |   int            |
+|   IDENTIFIER   |   x              |
+|   OPERATOR     |   =              |
+|   LITERAL      |   10             |
+|   SYMBOL       |   ;              |
+|   KEYWORD      |   float          |
+|   IDENTIFIER   |   y              |
+|   OPERATOR     |   =              |
+|   LITERAL      |   20             |
+|   LITERAL      |   5              |
+|   SYMBOL       |   ;              |
+|   KEYWORD      |   if             |
+|   SYMBOL       |   (              |
+|   IDENTIFIER   |   x              |
+|   OPERATOR     |   <              |
+|   IDENTIFIER   |   y              |
+|   SYMBOL       |   )              |
+|   SYMBOL       |   {              |
+|   IDENTIFIER   |   x              |
+|   OPERATOR     |   =              |
+|   IDENTIFIER   |   x              |
+|   OPERATOR     |   +              |
+|   LITERAL      |   1              |
+|   SYMBOL       |   ;              |
+|   SYMBOL       |   }              |
+|   KEYWORD      |   return         |
+|   LITERAL      |   0              |
+|   SYMBOL       |   ;              |
+|   SYMBOL       |   }              |
+-------------------------------------
