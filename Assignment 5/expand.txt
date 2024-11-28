@@ -1,0 +1,10 @@
+START 200 
+MUL BREG, '=4' 
+MOVER BREG, A 
+PRINT C 
+B DS 1 
+READ &A 
+ADD &B '=5' 
+PRINT &C 
+
+END 

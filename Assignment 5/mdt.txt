@@ -1,0 +1,7 @@
+01 MACRO
+02 XYZ &A &B &C 
+03 READ &A 
+04 ADD &B '=5' 
+05 PRINT &C 
+06 MEND 
+07 
